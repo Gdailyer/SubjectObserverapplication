@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">observeApplicaton</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_post">PostActivity</string>
+    <string name="ResfreshAction">刷新MainActivity布局!</string>
+    <string name="ACKAction">刷新上个布局text!</string>
+    <string name="ACKActionbutton">刷新上个布局Button!</string>
+    <string name="MainFirstlayout">实验布局初始状态!</string>
+    <string name="MainSecondlayout">实验布局刷新后状态!</string>
+    <string name="Mainack">跳转到下一个Activity!</string>
+    <string name="Mainreack">演示结束，误触摸</string>
+</resources>
