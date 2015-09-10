@@ -7,4 +7,5 @@ android observer and subject Demo
 Use a lot of code caused confusion broadcast, bad management, resource consumption may be high, for which users draw some experience, do some of his own organization, I hope that we can quickly in the project
 Use.
 
+
  
